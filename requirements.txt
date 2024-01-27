@@ -1,0 +1,7 @@
+PyPDF2
+python-docx
+langchain
+langchain-openai
+faiss-cpu
+pydantic
+gradio
