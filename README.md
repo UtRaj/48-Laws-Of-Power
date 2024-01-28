@@ -16,15 +16,6 @@ This web application utilizes a language model to answer questions related to "T
 **User Interface:** The web app has a user-friendly interface for seamless interaction.
 
 
-## Usage
-Access the web app through the provided URL.
-
-Input your question related to "The 48 Laws of Power."
-
-Receive a generated response based on the book's content.
-
-
-
 ## Model Details
 **Model Name:** Langchain
 
@@ -42,7 +33,5 @@ The Langchain has been deployed on Hugging Face Spaces and is accessible through
 ## Loom Video Link
 **Link:** https://www.loom.com/share/339174e4d2a04979ae9237280f180553?sid=fc4c889a-f9e7-44ba-9de2-966926e30750
 
-## Deployed Link
-Visit the deployed model on Hugging Face Spaces: [Laws Of Power](https://huggingface.co/spaces/Rajut/selfQ_A)
 
 
